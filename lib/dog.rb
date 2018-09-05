@@ -15,3 +15,6 @@ class Dog
       @breed
     end
   end
+
+  kanye = Dog.new (kanye)
+  
