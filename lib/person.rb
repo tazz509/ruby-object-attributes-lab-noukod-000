@@ -14,5 +14,5 @@ class Person
     end
   end
 
-  jean = Person.new(jean)
+  jean = Person.new("jean")
 jean.name
