@@ -13,3 +13,5 @@ class Person
       @job
     end
   end
+
+  jean = Person.new(jean)
