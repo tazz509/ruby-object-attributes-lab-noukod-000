@@ -1,18 +1,14 @@
 class Dog
-  def initialize("#name")
-      @name = "#name"
+  def (name)
+      @name = name
     end
 
     def name
       @name
     end
-  end
 
-  fifou = Dog.new ("fifou")
-  fifou.name
-
-  def initialize("#breed")
-    @breed= "#breed"
+  def (breed)
+    @breed= breed
   end
 
   def breed
