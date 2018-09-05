@@ -7,14 +7,14 @@ class Dog
       @name
     end
 
-    def initialize("#breed")
-      @breed= "#breed"
-    end
+  fifou = Dog.new ("fifou")
+  fifou.name
 
-    def breed
-      @breed
-    end
+  def initialize("#breed")
+    @breed= "#breed"
   end
 
-  kanye = Dog.new (kanye)
-  kanye.name
+  def breed
+    @breed
+  end
+end
