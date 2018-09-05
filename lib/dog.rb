@@ -17,4 +17,4 @@ class Dog
   end
 
   kanye = Dog.new (kanye)
-  
+  kanye.name
